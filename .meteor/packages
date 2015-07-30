@@ -7,3 +7,9 @@
 meteor-platform
 autopublish
 insecure
+cosmos:browserify
+fourseven:scss@2.0.0
+meteorhacks:npm
+meteoric:ionic-sass
+meteoric:ionicons-sass
+react
